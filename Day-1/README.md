@@ -1,4 +1,7 @@
-# Day 1 -
+# Day 1 - Working with Variables in Go
+
+## Project
+Create a band name generator that takes two user inputs, and concatenates them together, printing that out as the suggested band name.
 
 ## Description
 
