@@ -7,15 +7,7 @@ This recreates the first day project from [100 Days of Code: The Complete Python
 I am working through the class at work in Python, and on my own time am re-implmenting my solutions in Go as a way to strengthen ideas, but also learn another programming language.
 
 ## Setup & Run Instructions
-```
-$ go build bandname
-$ ./bandname
-Input the name of your city:
-Night City
-Input the name of your pet:
-Maelstrom
-Your band name should be the Night City Maelstrom
-```
+![Setup Instructions and Readme Video](https://github.com/absenth/100-days-of-code/blob/main/Day-1/extras/bandname.gif)
 
 ## Lessons Learned
 I didn't initially realize that `fmt.Scan(&i)` would only grab one word and not everything typed into a string.
