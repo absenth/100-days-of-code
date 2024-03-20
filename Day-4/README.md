@@ -1,4 +1,4 @@
-# Day 3 - Rock Paper Scissors Game
+# Day 4 - Rock Paper Scissors Game
 
 ## Project
 Today's project is to create the game Rock Paper Scissors.  This is an introduction into both conditional statements, as well as an introduction to how to randomly select items.
