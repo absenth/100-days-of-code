@@ -9,7 +9,7 @@ This recreates the second day project from [100 Days of Code: The Complete Pytho
 I am working through the class at work in Python, and on my own time am re-implmenting my solutions in Go as a way to strengthen ideas, but also learn another programming language.
 
 ## Setup & Run Instructions
-![Setup Instructions and Readme Video](https://github.com/absenth/100-days-of-code/blob/main/Day-3/extras/rockpaperscissors.gif)
+![Setup Instructions and Readme Video](https://github.com/absenth/100-days-of-code/blob/main/Day-4/extras/rockpaperscissors.gif)
 
 ## Lessons Learned
 Today most of my learning was around how to use the `math/rand` module.  I think the idea of using the `time.Now().UnixNano()` to set the seed is an interesting way to improve the psudo random number generator.
